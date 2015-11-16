@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: openstack
+modal-id: 1
 date: 2014-07-15
 img: openstack-logo.png
 alt: OpenStack Logo
