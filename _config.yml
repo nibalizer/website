@@ -53,6 +53,10 @@ social:
     url: https://twitch.tv/nibalizer
   - title: area-chart
     url: http://stackalytics.com/?release=all&user_id=nibalizer
+  - title: users
+    url: https://speakerdeck.com/nibalizer
+  - title: linkedin
+    url: https://www.linkedin.com/in/nibalizer
 
 # Postal address (add as many lines as necessary)
 address:
