@@ -5,6 +5,6 @@ date: 2014-07-14
 img: puppet-labs-logo.png
 alt: Puppet Logo
 project-date: April 2014
-description: Since 2011 I have been involved with the Puppet community. I was a founding member of the <a href="https://puppet.community">'Puppet Community' effort</a>. I maintain dozens of modules, tools, and plugins. I fill the role of 'infrastructure engineer', writing and deploying <a href="http://ci.puppet.community">PCCI</a>, the public beaker testing service, as well as the automated release pipelines. I have spoken widely on the topic of Puppet and was a co-author on <a href="http://www.amazon.com/Pro-Puppet-Spencer-Krum-ebook/dp/B00DREFY3E">Pro Puppet 2nd Edition</a>.
+description: Since 2011 I have been involved with the Puppet community. I was a founding member of the <a href="https://voxpupuli.org/">'Puppet Community' effort</a>. I maintain dozens of modules, tools, and plugins. I fill the role of 'infrastructure engineer', writing and deploying <a href="https://ci.voxpupuli.org">PCCI</a>, the public beaker testing service, as well as the automated release pipelines. I have spoken widely on the topic of Puppet and was a co-author on <a href="http://www.amazon.com/Pro-Puppet-Spencer-Krum-ebook/dp/B00DREFY3E">Pro Puppet 2nd Edition</a>.
 
 ---
